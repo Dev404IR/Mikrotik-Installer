@@ -16,9 +16,16 @@ This Script Can Install Below Versions :
 Curl ✅
 
 Rescue OS/Mode ✅
+# Installation 💿
 
+You Can Do This With Simple Curl Cmd, Like Below :
+```bash
+ curl 
+```
 
 # Support ☎️
 Email : Inbox@Dev404.Email 📧
 
 Telegram : t.me/Dev_404 🆔
+
+
