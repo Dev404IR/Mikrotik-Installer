@@ -7,6 +7,18 @@ Linode,
 And Other Hostings Support Rescue OS Can Be Installed.
 # Supported Versions ✅
 This Script Can Install Below Versions : 
+1) 6.48.6 (Long-Term) / Recommended Version
+2) 7.1.2 (Stable)
+3) 6.49.3 (Stable)
+4) 6.49rc2 (Testing)
+5) 7.2rc3 (Testing)
+# Requirements 💻
+Curl ✅
+
+Rescue OS/Mode ✅
 
 
+# Support ☎️
+Email : Inbox@Dev404.Email 📧
 
+Telegram : t.me/Dev_404 🆔
