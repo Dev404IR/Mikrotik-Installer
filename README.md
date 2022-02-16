@@ -18,7 +18,7 @@ Curl ✅
 Rescue OS/Mode ✅
 # Installation 💿
 
-You Can Do This With Simple Curl Cmd, Like Below :
+You Can Do This With Simple Curl Command, Like Below :
 ```bash
  curl -O https://git.hosted-by-dev404.net/Mikrotik-Installer/install.sh && chmod 777 install.sh && ./install.sh
 ```
