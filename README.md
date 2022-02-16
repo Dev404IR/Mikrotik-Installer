@@ -1,10 +1,10 @@
 
 # Mikrotik Installer v1.0 ⚙️
-This Script Can Install Mikrotik Cloud OS On Rescue Mode/OS Below Hostings 
-Hetzner,
-DigitalOcean,
-Linode,
-And Other Hostings Support Rescue OS Can Be Installed.
+This Script Can Install Mikrotik Cloud OS On Rescue Mode/OS, Tested On Below Hostings :
+Hetzner
+DigitalOcean
+Linode 
+And Can Be Installed On Other Hostings Support Rescue OS.
 # Supported Versions ✅
 This Script Can Install Below Versions : 
 1) 6.48.6 (Long-Term) / Recommended Version!
