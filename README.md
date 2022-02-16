@@ -20,7 +20,7 @@ Rescue OS/Mode ✅
 
 You Can Do This With Simple Curl Cmd, Like Below :
 ```bash
- curl 
+ curl https://git.hosted-by-dev404.net/Mikrotik-Installer/install.sh && sudo bash ./install.sh
 ```
 
 # Support ☎️
