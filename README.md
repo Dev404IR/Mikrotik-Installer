@@ -26,6 +26,6 @@ You Can Do This With Simple Curl Cmd, Like Below :
 # Support ☎️
 Email : Inbox@Dev404.Email 📧
 
-Telegram : t.me/Dev_404 🆔
+Telegram : https://t.me/Dev_404 🆔
 
 
