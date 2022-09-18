@@ -20,7 +20,7 @@ Rescue OS/Mode ✅
 
 You Can Do This With Simple Curl Command, Like Below :
 ```bash
- curl -O https://git.hosted-by-dev404.net/Mikrotik-Installer/install.sh && chmod 777 install.sh && ./install.sh
+ curl -k -O https://git.hosted-by-dev404.net/Mikrotik-Installer/install.sh && chmod 777 install.sh && ./install.sh
 ```
 
 # Support ☎️
@@ -28,5 +28,5 @@ Email : Inbox@Dev404.Email 📧
 
 Telegram : https://t.me/Dev_404 🆔
 
-Discord : Dev-404#9343 📞
+Discord : Dev404ᴳᵒᵒʳᵇᵃ#0404 📞
 
